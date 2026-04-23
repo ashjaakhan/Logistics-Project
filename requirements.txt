@@ -5,3 +5,5 @@ joblib
 requests
 google-generativeai
 numpy
+streamlit
+plotly
